@@ -118,6 +118,7 @@ https://github.com/wangdrew/kafka-go
 https://github.com/wangshichun/kafka_consumer_monitor_go
 https://github.com/wolfester/easykafkaproducer
 https://github.com/wvanbergen/kafka
+https://github.com/wvanbergen/kazoo-go
 https://github.com/xorlev/gregor
 https://github.com/xstevens/k
 https://github.com/xtaci/rewind

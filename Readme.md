@@ -80,7 +80,7 @@ The main purpose is reading / learning / teaching.
 - [landoop/kafka-connectors-tests](https://github.com/landoop/kafka-connectors-tests) - Test suite for Kafka Connect connectors based on Landoop's Coyote and docker. <br/> ( 2017-03-09 / 81 commits / 0 stars )
 - [legionus/kafka-replicator](https://github.com/legionus/kafka-replicator) - Kafka messages replicator <br/> ( 2015-11-19 / 12 commits / 0 stars )
 - [linkedin/burrow](https://github.com/linkedin/burrow) - Kafka Consumer Lag Checking <br/> ( 2017-03-07 / 160 commits / 203 stars )
-- [mailgun/kafka-pixy](https://github.com/mailgun/kafka-pixy) - gRPC/REST proxy for Kafka <br/> ( 2017-03-08 / 287 commits / 15 stars )
+- [mailgun/kafka-pixy](https://github.com/mailgun/kafka-pixy) - gRPC/REST proxy for Kafka <br/> ( 2017-03-08 / 287 commits / 16 stars )
 - [majidgolshadi/kafka-consumer](https://github.com/majidgolshadi/kafka-consumer) - Self balancing kafka consumer <br/> ( 2017-01-07 / 18 commits / 0 stars )
 - [marekgalovic/kafka-mysql](https://github.com/marekgalovic/kafka-mysql) - Kafka to mysql importer <br/> ( 2017-01-24 / 6 commits / 0 stars )
 - [marianogappa/bookie](https://github.com/marianogappa/bookie) - Indexing for Kafka queues. <br/> ( 2017-01-22 / 56 commits / 1 stars )
@@ -142,6 +142,7 @@ The main purpose is reading / learning / teaching.
 - [wangshichun/kafka_consumer_monitor_go](https://github.com/wangshichun/kafka_consumer_monitor_go) - monitor the pending message count of consumer of kafka: native or storm consumer <br/> ( 2016-08-24 / 5 commits / 0 stars )
 - [wolfester/easykafkaproducer](https://github.com/wolfester/easykafkaproducer) - --- <br/> ( 2016-02-25 / 4 commits / 0 stars )
 - [wvanbergen/kafka](https://github.com/wvanbergen/kafka) - Load-balancing, resuming Kafka consumer for go, backed by Zookeeper. <br/> ( 2016-09-27 / 210 commits / 80 stars )
+- [wvanbergen/kazoo-go](https://github.com/wvanbergen/kazoo-go) - Go library to access Kafka metadata in Zookeeper <br/> ( 2016-09-30 / 49 commits / 31 stars )
 - [xorlev/gregor](https://github.com/xorlev/gregor) - Minimalistic Kafka clone in Go <br/> ( 2015-05-19 / 17 commits / 0 stars )
 - [xstevens/k](https://github.com/xstevens/k) - A general command line client for Apache Kafka. <br/> ( 2016-10-25 / 36 commits / 2 stars )
 - [xtaci/rewind](https://github.com/xtaci/rewind) - Text-Based UI for Kafka <br/> ( 2017-02-10 / 29 commits / 2 stars )
@@ -163,7 +164,7 @@ The main purpose is reading / learning / teaching.
 - [ansrivas/fwatcher](https://github.com/ansrivas/fwatcher): 2017-03-09 <br/> An application to watch a given directory for new files, read it and publish to Kafka ( using actors )
 - [msales/kage](https://github.com/msales/kage): 2017-03-09 <br/> Kafka metrics agent.
 - [mailgun/kafka-pixy](https://github.com/mailgun/kafka-pixy): 2017-03-08 <br/> gRPC/REST proxy for Kafka
-- [krallistic/kafka-operator](https://github.com/krallistic/kafka-operator): 2017-03-08 <br/> [WIP] A Kafka Operator for Kubernetes
+- [krallistic/kafka-operator](https://github.com/krallistic/kafka-operator): 2017-03-08 <br/> [WIP] A Kafka Operator for Kubernetes 
 - [jbanier/passeplat](https://github.com/jbanier/passeplat): 2017-03-08 <br/> small go thingy that shift data around, from syslog to kafka is the first step.
 - [redborder/dynamic-sensors-watcher](https://github.com/redborder/dynamic-sensors-watcher): 2017-03-08 <br/> Service for allowing new sensors IP by watching a serial number netflow option template
 - [l0vest0rm/connpool](https://github.com/l0vest0rm/connpool): 2017-03-08 <br/> connection pool for go/golang to connect with redis/kafka/hbase/mysql and anything else
@@ -178,7 +179,7 @@ The main purpose is reading / learning / teaching.
 - [upsight/franz](https://github.com/upsight/franz): 2017-02-28 <br/> Convenience wrappers around Shopify's Sarama
 - [foxcomm/metamorphosis](https://github.com/foxcomm/metamorphosis): 2017-02-27 <br/> The simple Kafka client in GoLang! Read and transform messages with ease.
 - [trustedanalytics-ng/gateway](https://github.com/trustedanalytics-ng/gateway): 2017-02-24 <br/> Simple websocket bridge with kafka back-end
-- [wangdrew/kafka-go](https://github.com/wangdrew/kafka-go): 2017-02-24 <br/> Messing around with sarama, the Kafka golang library
+- [wangdrew/kafka-go](https://github.com/wangdrew/kafka-go): 2017-02-24 <br/> Messing around with sarama, the Kafka golang library 
 - [mediamath/sr](https://github.com/mediamath/sr): 2017-02-23 <br/> Publish schemas to confluent schema-registry
 - [anthonyserious/go-kafka-test](https://github.com/anthonyserious/go-kafka-test): 2017-02-23 <br/> Test building mircoservices with go and kafka
 - [roblaszczak/clikafka](https://github.com/roblaszczak/clikafka): 2017-02-23 <br/> Simple CLI tool for Kafka written in GO (Golang)
@@ -218,7 +219,7 @@ The main purpose is reading / learning / teaching.
 - [rafaeljesus/event-srv](https://github.com/rafaeljesus/event-srv): 2016-12-19 <br/> An event aggregation service for microservices :hourglass:
 - [jamiealquiza/sangrenel](https://github.com/jamiealquiza/sangrenel): 2016-12-15 <br/> Apache Kafka load testing: "...basically a cloth bag filled with small jagged pieces of scrap iron"
 - [mhausenblas/dnpipes](https://github.com/mhausenblas/dnpipes): 2016-12-14 <br/> Distributed Named Pipes
-- [jianchen2580/log-stream](https://github.com/jianchen2580/log-stream): 2016-12-14 <br/> streaming kafka logs
+- [jianchen2580/log-stream](https://github.com/jianchen2580/log-stream): 2016-12-14 <br/> streaming kafka logs 
 - [supereagle/kafka-goclient-perf-test](https://github.com/supereagle/kafka-goclient-perf-test): 2016-12-09 <br/> Performance Test for Kafak clents of Go
 - [thbkrkr/zkafkapi](https://github.com/thbkrkr/zkafkapi): 2016-12-09 <br/> API to manage Kafka topics and consumers
 - [mudit2108/docker-kafka](https://github.com/mudit2108/docker-kafka): 2016-12-07 <br/> Apache Kafka cluster implemented with Docker
@@ -240,6 +241,7 @@ The main purpose is reading / learning / teaching.
 - [redborder/k2http](https://github.com/redborder/k2http): 2016-10-10 <br/> Forwards messages from kafka to an HTTP endpoint.
 - [kchristidis/kafka-orderer](https://github.com/kchristidis/kafka-orderer): 2016-10-09 <br/> The prototype of what later became the Kafka-based ordering service for Hyperledger Fabric. (This repo is no longer maintained; kept for historical reasons.) Please see: https://github.com/hyperledger/fabric/tree/master/orderer
 - [cafxx/kafkabalancer](https://github.com/cafxx/kafkabalancer): 2016-10-06 <br/> Automatically rebalance your kafka topics, partitions, replicas across your cluster
+- [wvanbergen/kazoo-go](https://github.com/wvanbergen/kazoo-go): 2016-09-30 <br/> Go library to access Kafka metadata in Zookeeper
 - [moemoe89/simple-avro-kafka-golang](https://github.com/moemoe89/simple-avro-kafka-golang): 2016-09-28 <br/> Simple Avro Kafka using Golang for Producer and Consumer
 - [moemoe89/simple-kafka-golang](https://github.com/moemoe89/simple-kafka-golang): 2016-09-28 <br/> Simple Kafka using Golang for Producer and Consumer
 - [wvanbergen/kafka](https://github.com/wvanbergen/kafka): 2016-09-27 <br/> Load-balancing, resuming Kafka consumer for go, backed by Zookeeper.
@@ -269,7 +271,7 @@ The main purpose is reading / learning / teaching.
 - [pmdcosta/apache-kafka](https://github.com/pmdcosta/apache-kafka): 2016-02-19 <br/> Docker containers for an Apache Kafka cluster
 - [nickbruun/gokafkagroupconsumer](https://github.com/nickbruun/gokafkagroupconsumer): 2016-01-26 <br/> Kafka 0.9+ group consumer for Go based on Shopify's sarama library
 - [legionus/kafka-replicator](https://github.com/legionus/kafka-replicator): 2015-11-19 <br/> Kafka messages replicator
-- [adxhyt/kafka-zookeeper-monitor](https://github.com/adxhyt/kafka-zookeeper-monitor): 2015-11-12 <br/> yet another kafka monitor by zookeeper
+- [adxhyt/kafka-zookeeper-monitor](https://github.com/adxhyt/kafka-zookeeper-monitor): 2015-11-12 <br/> yet another kafka monitor by zookeeper 
 - [ian-kent/ktail](https://github.com/ian-kent/ktail): 2015-10-23 <br/> Tail a Kafka topic (see https://github.com/ian-kent/ktee)
 - [kasey/camus](https://github.com/kasey/camus): 2015-10-08 <br/> what comes after kafka?
 - [ian-kent/ktee](https://github.com/ian-kent/ktee): 2015-09-25 <br/> Tee to a Kafka topic (see https://github.com/ian-kent/ktail)
@@ -296,11 +298,11 @@ The main purpose is reading / learning / teaching.
 - [supereagle/kafka-goclient-perf-test](https://github.com/supereagle/kafka-goclient-perf-test): 7.03 MB<br/>  (3.07 MB git / 3.96 MB code)
 - [moemoe89/simple-kafka-golang](https://github.com/moemoe89/simple-kafka-golang): 6.85 MB<br/>  (1.67 MB git / 5.18 MB code)
 - [banno/terraform-provider-mesoskafka](https://github.com/banno/terraform-provider-mesoskafka): 6.64 MB<br/>  (3.76 MB git / 2.88 MB code)
-- [onsdigital/dp-csv-splitter](https://github.com/onsdigital/dp-csv-splitter): 6.29 MB<br/>  (4.15 MB git / 2.13 MB code)
+- [onsdigital/dp-csv-splitter](https://github.com/onsdigital/dp-csv-splitter): 6.29 MB<br/>  (4.16 MB git / 2.13 MB code)
 - [thbkrkr/zkafkapi](https://github.com/thbkrkr/zkafkapi): 6.16 MB<br/>  (1.17 MB git / 4.99 MB code)
 - [runabove/queue-examples](https://github.com/runabove/queue-examples): 6.02 MB<br/>  (4.88 MB git / 1.14 MB code)
 - [xtaci/rewind](https://github.com/xtaci/rewind): 5.93 MB<br/>  (1.10 MB git / 4.83 MB code)
-- [marianogappa/bookie](https://github.com/marianogappa/bookie): 5.35 MB<br/>  (0.94 MB git / 4.41 MB code)
+- [marianogappa/bookie](https://github.com/marianogappa/bookie): 5.36 MB<br/>  (0.94 MB git / 4.41 MB code)
 - [sourcec0de/lmq](https://github.com/sourcec0de/lmq): 5.11 MB<br/>  (0.92 MB git / 4.18 MB code)
 - [brxie/kafka-gtk](https://github.com/brxie/kafka-gtk): 4.80 MB<br/>  (4.41 MB git / 0.39 MB code)
 - [travisjeffery/jocko](https://github.com/travisjeffery/jocko): 4.57 MB<br/>  (4.42 MB git / 0.15 MB code)
@@ -330,12 +332,12 @@ The main purpose is reading / learning / teaching.
 - [allmad/madq](https://github.com/allmad/madq): 1.09 MB<br/>  (0.97 MB git / 0.12 MB code)
 - [chenziliang/descartes.legacy](https://github.com/chenziliang/descartes.legacy): 0.90 MB<br/>  (0.74 MB git / 0.16 MB code)
 - [germanramos/kafka-console-producer](https://github.com/germanramos/kafka-console-producer): 0.85 MB<br/>  (0.25 MB git / 0.60 MB code)
-- [movio/go-kafka](https://github.com/movio/go-kafka): 0.81 MB<br/>  (0.23 MB git / 0.59 MB code)
+- [movio/go-kafka](https://github.com/movio/go-kafka): 0.82 MB<br/>  (0.23 MB git / 0.59 MB code)
 - [anthonyserious/go-kafka-test](https://github.com/anthonyserious/go-kafka-test): 0.79 MB<br/>  (0.78 MB git / 0.01 MB code)
 - [funkygao/dbus](https://github.com/funkygao/dbus): 0.76 MB<br/>  (0.63 MB git / 0.13 MB code)
 - [h12w/kpax](https://github.com/h12w/kpax): 0.74 MB<br/>  (0.44 MB git / 0.30 MB code)
 - [optiopay/kafka](https://github.com/optiopay/kafka): 0.73 MB<br/>  (0.46 MB git / 0.27 MB code)
-- [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go): 0.48 MB<br/>  (0.21 MB git / 0.27 MB code)
+- [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go): 0.48 MB<br/>  (0.22 MB git / 0.27 MB code)
 - [upsight/franz](https://github.com/upsight/franz): 0.45 MB<br/>  (0.44 MB git / 0.01 MB code)
 - [kasey/camus](https://github.com/kasey/camus): 0.43 MB<br/>  (0.14 MB git / 0.30 MB code)
 - [elodina/siesta](https://github.com/elodina/siesta): 0.43 MB<br/>  (0.23 MB git / 0.20 MB code)
@@ -344,7 +346,7 @@ The main purpose is reading / learning / teaching.
 - [wvanbergen/kafka](https://github.com/wvanbergen/kafka): 0.33 MB<br/>  (0.27 MB git / 0.06 MB code)
 - [landoop/kafka-connectors-tests](https://github.com/landoop/kafka-connectors-tests): 0.32 MB<br/>  (0.19 MB git / 0.13 MB code)
 - [kchristidis/kafka-orderer](https://github.com/kchristidis/kafka-orderer): 0.27 MB<br/>  (0.15 MB git / 0.12 MB code)
-- [financial-times/coco-kafka-bridge](https://github.com/financial-times/coco-kafka-bridge): 0.24 MB<br/>  (0.20 MB git / 0.05 MB code)
+- [financial-times/coco-kafka-bridge](https://github.com/financial-times/coco-kafka-bridge): 0.25 MB<br/>  (0.20 MB git / 0.05 MB code)
 - [mudit2108/docker-kafka](https://github.com/mudit2108/docker-kafka): 0.23 MB<br/>  (0.08 MB git / 0.15 MB code)
 - [roblaszczak/gotify](https://github.com/roblaszczak/gotify): 0.22 MB<br/>  (0.11 MB git / 0.11 MB code)
 - [andreas-schroeder/kafka-health-check](https://github.com/andreas-schroeder/kafka-health-check): 0.21 MB<br/>  (0.12 MB git / 0.09 MB code)
@@ -355,6 +357,7 @@ The main purpose is reading / learning / teaching.
 - [hellofresh/kandalf](https://github.com/hellofresh/kandalf): 0.17 MB<br/>  (0.12 MB git / 0.05 MB code)
 - [orbat/krater](https://github.com/orbat/krater): 0.14 MB<br/>  (0.06 MB git / 0.08 MB code)
 - [redborder/k2http](https://github.com/redborder/k2http): 0.13 MB<br/>  (0.08 MB git / 0.05 MB code)
+- [wvanbergen/kazoo-go](https://github.com/wvanbergen/kazoo-go): 0.12 MB<br/>  (0.07 MB git / 0.05 MB code)
 - [pmdcosta/apache-kafka](https://github.com/pmdcosta/apache-kafka): 0.12 MB<br/>  (0.07 MB git / 0.05 MB code)
 - [garo/logs2kafka](https://github.com/garo/logs2kafka): 0.11 MB<br/>  (0.07 MB git / 0.05 MB code)
 - [krallistic/kafka-operator](https://github.com/krallistic/kafka-operator): 0.10 MB<br/>  (0.07 MB git / 0.04 MB code)
@@ -366,7 +369,7 @@ The main purpose is reading / learning / teaching.
 - [meteogroup/amqp-to-kafka](https://github.com/meteogroup/amqp-to-kafka): 0.09 MB<br/>  (0.06 MB git / 0.03 MB code)
 - [meteogroup/sqs-to-kafka](https://github.com/meteogroup/sqs-to-kafka): 0.08 MB<br/>  (0.05 MB git / 0.03 MB code)
 - [pryz/kafka-training](https://github.com/pryz/kafka-training): 0.08 MB<br/>  (0.07 MB git / 0.02 MB code)
-- [ybrs/d.adams](https://github.com/ybrs/d.adams): 0.08 MB<br/>  (0.05 MB git / 0.03 MB code)
+- [ybrs/d.adams](https://github.com/ybrs/d.adams): 0.08 MB<br/>  (0.06 MB git / 0.03 MB code)
 - [tsenart/gofka](https://github.com/tsenart/gofka): 0.08 MB<br/>  (0.06 MB git / 0.02 MB code)
 - [msales/kage](https://github.com/msales/kage): 0.08 MB<br/>  (0.05 MB git / 0.03 MB code)
 - [xstevens/k](https://github.com/xstevens/k): 0.07 MB<br/>  (0.05 MB git / 0.02 MB code)
