@@ -21,8 +21,8 @@ The main purpose is reading / learning / teaching.
 
 ### Projects
 <!-- PROJECTS_LIST -->
-- [adxhyt/kafka-zookeeper-monitor](https://github.com/adxhyt/kafka-zookeeper-monitor) - yet another kafka monitor by zookeeper  <br/> ( 2015-11-12 / 9 commits / 0 stars )
-- [allmad/madq](https://github.com/allmad/madq) - [WIP] A high performance message queue, inspired by kafka <br/> ( 2016-07-11 / 78 commits / 2 stars )
+- [adxhyt/kafka-zookeeper-monitor](https://github.com/adxhyt/kafka-zookeeper-monitor) - yet another kafka monitor by zookeeper <br/> ( 2015-11-12 / 9 commits / 0 stars )
+- [allmad/madq](https://github.com/allmad/madq) - [WIP] A high performance message queue, inspired by kafka <br/> ( 2016-07-11 / 78 commits / 3 stars )
 - [andreas-schroeder/kafka-health-check](https://github.com/andreas-schroeder/kafka-health-check) - Health Check for Kafka Brokers. <br/> ( 2016-10-26 / 63 commits / 4 stars )
 - [ansrivas/fwatcher](https://github.com/ansrivas/fwatcher) - An application to watch a given directory for new files, read it and publish to Kafka ( using actors ) <br/> ( 2017-03-09 / 18 commits / 0 stars )
 - [anthonyserious/go-kafka-test](https://github.com/anthonyserious/go-kafka-test) - Test building mircoservices with go and kafka <br/> ( 2017-02-23 / 7 commits / 0 stars )
@@ -30,7 +30,7 @@ The main purpose is reading / learning / teaching.
 - [brxie/kafka-gtk](https://github.com/brxie/kafka-gtk) - GUI application for exchanging messages from Apache Kafka clusters <br/> ( 2016-12-02 / 18 commits / 0 stars )
 - [cafxx/kafkabalancer](https://github.com/cafxx/kafkabalancer) - Automatically rebalance your kafka topics, partitions, replicas across your cluster <br/> ( 2016-10-06 / 47 commits / 0 stars )
 - [chenziliang/descartes.legacy](https://github.com/chenziliang/descartes.legacy) - Data collecting infrastructure based on Kafka and Splunk <br/> ( 2015-05-13 / 40 commits / 0 stars )
-- [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client <br/> ( 2017-03-03 / 107 commits / 24 stars )
+- [confluentinc/confluent-kafka-go](https://github.com/confluentinc/confluent-kafka-go) - Confluent's Apache Kafka Golang client <br/> ( 2017-03-03 / 107 commits / 25 stars )
 - [corybuecker/kafka-testing](https://github.com/corybuecker/kafka-testing) - A Docker-based set of programs to send and receive messages through a Kafka cluster. <br/> ( 2016-09-10 / 7 commits / 0 stars )
 - [ctrlaltdel121/kafkacat-hk](https://github.com/ctrlaltdel121/kafkacat-hk) - Kafkacat wrapper for Heroku Kafka <br/> ( 2017-02-11 / 6 commits / 0 stars )
 - [datamountaineer/schema-registry](https://github.com/datamountaineer/schema-registry) - A CLI and Go client for Confluent's Kafka Schema Registry <br/> ( 2017-01-15 / 34 commits / 2 stars )
@@ -68,12 +68,12 @@ The main purpose is reading / learning / teaching.
 - [jeffail/benthos](https://github.com/jeffail/benthos) - A persistent stream buffer <br/> ( 2017-01-03 / 119 commits / 3 stars )
 - [jeffallen/kboing](https://github.com/jeffallen/kboing) - A load generator for Kafka <br/> ( 2016-06-14 / 4 commits / 0 stars )
 - [jhaynie/github-webhook-kafka](https://github.com/jhaynie/github-webhook-kafka) - Github Webhook -> Kafka server <br/> ( 2016-10-17 / 10 commits / 0 stars )
-- [jianchen2580/log-stream](https://github.com/jianchen2580/log-stream) - streaming kafka logs  <br/> ( 2016-12-14 / 5 commits / 0 stars )
+- [jianchen2580/log-stream](https://github.com/jianchen2580/log-stream) - streaming kafka logs <br/> ( 2016-12-14 / 5 commits / 0 stars )
 - [jurriaan/kafkatools](https://github.com/jurriaan/kafkatools) - CLI tools for monitoring and managing Apache Kafka <br/> ( 2017-02-04 / 39 commits / 1 stars )
 - [kasey/camus](https://github.com/kasey/camus) - what comes after kafka? <br/> ( 2015-10-08 / 2 commits / 0 stars )
 - [kchristidis/kafka-orderer](https://github.com/kchristidis/kafka-orderer) - The prototype of what later became the Kafka-based ordering service for Hyperledger Fabric. (This repo is no longer maintained; kept for historical reasons.) Please see: https://github.com/hyperledger/fabric/tree/master/orderer <br/> ( 2016-10-09 / 69 commits / 5 stars )
 - [kochava/firehose](https://github.com/kochava/firehose) - A Kafka topic transfer agent <br/> ( 2016-11-22 / 77 commits / 0 stars )
-- [krallistic/kafka-operator](https://github.com/krallistic/kafka-operator) - [WIP] A Kafka Operator for Kubernetes  <br/> ( 2017-03-08 / 37 commits / 0 stars )
+- [krallistic/kafka-operator](https://github.com/krallistic/kafka-operator) - [WIP] A Kafka Operator for Kubernetes <br/> ( 2017-03-10 / 38 commits / 0 stars )
 - [l0vest0rm/connpool](https://github.com/l0vest0rm/connpool) - connection pool for go/golang to connect with redis/kafka/hbase/mysql and anything else <br/> ( 2017-03-08 / 8 commits / 1 stars )
 - [lancewf/sarama](https://github.com/lancewf/sarama) - Example using the sarama with kafka to add and retrieve messages from the stream <br/> ( 2017-02-16 / 1 commits / 0 stars )
 - [landoop/kafka-connectors-tests](https://github.com/landoop/kafka-connectors-tests) - Test suite for Kafka Connect connectors based on Landoop's Coyote and docker. <br/> ( 2017-03-09 / 81 commits / 0 stars )
@@ -137,7 +137,7 @@ The main purpose is reading / learning / teaching.
 - [uswitch/loglet](https://github.com/uswitch/loglet) - Forward journald log messages to Kafka <br/> ( 2017-01-10 / 16 commits / 0 stars )
 - [vamsi-subhash/kafka-lite](https://github.com/vamsi-subhash/kafka-lite) - Hackday project for implementing some of the the kafka protocol in go (just for fun) <br/> ( 2017-01-22 / 39 commits / 0 stars )
 - [vrischmann/koff](https://github.com/vrischmann/koff) - koff is a small tool to get information about Kafka offsets. <br/> ( 2016-08-29 / 34 commits / 0 stars )
-- [wangdrew/kafka-go](https://github.com/wangdrew/kafka-go) - Messing around with sarama, the Kafka golang library  <br/> ( 2017-02-24 / 5 commits / 0 stars )
+- [wangdrew/kafka-go](https://github.com/wangdrew/kafka-go) - Messing around with sarama, the Kafka golang library <br/> ( 2017-02-24 / 5 commits / 0 stars )
 - [wangshichun/kafka_consumer_monitor_go](https://github.com/wangshichun/kafka_consumer_monitor_go) - monitor the pending message count of consumer of kafka: native or storm consumer <br/> ( 2016-08-24 / 5 commits / 0 stars )
 - [wolfester/easykafkaproducer](https://github.com/wolfester/easykafkaproducer) - --- <br/> ( 2016-02-25 / 4 commits / 0 stars )
 - [wvanbergen/kafka](https://github.com/wvanbergen/kafka) - Load-balancing, resuming Kafka consumer for go, backed by Zookeeper. <br/> ( 2016-09-27 / 210 commits / 80 stars )
@@ -152,6 +152,7 @@ The main purpose is reading / learning / teaching.
 
 ### By Activity
 <!-- ACTIVITY_LIST -->
+- [krallistic/kafka-operator](https://github.com/krallistic/kafka-operator): 2017-03-10 <br/> [WIP] A Kafka Operator for Kubernetes
 - [meteogroup/amqp-to-kafka](https://github.com/meteogroup/amqp-to-kafka): 2017-03-10 <br/> Fetches messages from AMQP and forwards them to Kafka
 - [funkygao/dbus](https://github.com/funkygao/dbus): 2017-03-10 <br/> yet another databus that transfer/transform pipeline data between plugins
 - [saveav/kafka-go-example](https://github.com/saveav/kafka-go-example): 2017-03-10 <br/> Demo for doing event driven in Go using Kafka as the message brocker
@@ -163,7 +164,6 @@ The main purpose is reading / learning / teaching.
 - [ansrivas/fwatcher](https://github.com/ansrivas/fwatcher): 2017-03-09 <br/> An application to watch a given directory for new files, read it and publish to Kafka ( using actors )
 - [msales/kage](https://github.com/msales/kage): 2017-03-09 <br/> Kafka metrics agent.
 - [mailgun/kafka-pixy](https://github.com/mailgun/kafka-pixy): 2017-03-08 <br/> gRPC/REST proxy for Kafka
-- [krallistic/kafka-operator](https://github.com/krallistic/kafka-operator): 2017-03-08 <br/> [WIP] A Kafka Operator for Kubernetes
 - [jbanier/passeplat](https://github.com/jbanier/passeplat): 2017-03-08 <br/> small go thingy that shift data around, from syslog to kafka is the first step.
 - [redborder/dynamic-sensors-watcher](https://github.com/redborder/dynamic-sensors-watcher): 2017-03-08 <br/> Service for allowing new sensors IP by watching a serial number netflow option template
 - [l0vest0rm/connpool](https://github.com/l0vest0rm/connpool): 2017-03-08 <br/> connection pool for go/golang to connect with redis/kafka/hbase/mysql and anything else
@@ -300,7 +300,7 @@ The main purpose is reading / learning / teaching.
 - [onsdigital/dp-csv-splitter](https://github.com/onsdigital/dp-csv-splitter): 6.29 MB<br/>  (4.16 MB git / 2.13 MB code)
 - [thbkrkr/zkafkapi](https://github.com/thbkrkr/zkafkapi): 6.16 MB<br/>  (1.17 MB git / 4.99 MB code)
 - [runabove/queue-examples](https://github.com/runabove/queue-examples): 6.02 MB<br/>  (4.88 MB git / 1.14 MB code)
-- [xtaci/rewind](https://github.com/xtaci/rewind): 5.93 MB<br/>  (1.10 MB git / 4.83 MB code)
+- [xtaci/rewind](https://github.com/xtaci/rewind): 5.94 MB<br/>  (1.10 MB git / 4.84 MB code)
 - [marianogappa/bookie](https://github.com/marianogappa/bookie): 5.36 MB<br/>  (0.94 MB git / 4.41 MB code)
 - [sourcec0de/lmq](https://github.com/sourcec0de/lmq): 5.11 MB<br/>  (0.92 MB git / 4.18 MB code)
 - [brxie/kafka-gtk](https://github.com/brxie/kafka-gtk): 4.80 MB<br/>  (4.41 MB git / 0.39 MB code)
@@ -359,7 +359,7 @@ The main purpose is reading / learning / teaching.
 - [wvanbergen/kazoo-go](https://github.com/wvanbergen/kazoo-go): 0.12 MB<br/>  (0.07 MB git / 0.05 MB code)
 - [pmdcosta/apache-kafka](https://github.com/pmdcosta/apache-kafka): 0.12 MB<br/>  (0.07 MB git / 0.05 MB code)
 - [garo/logs2kafka](https://github.com/garo/logs2kafka): 0.11 MB<br/>  (0.07 MB git / 0.05 MB code)
-- [krallistic/kafka-operator](https://github.com/krallistic/kafka-operator): 0.10 MB<br/>  (0.07 MB git / 0.04 MB code)
+- [krallistic/kafka-operator](https://github.com/krallistic/kafka-operator): 0.11 MB<br/>  (0.07 MB git / 0.04 MB code)
 - [supershabam/sarama-cg](https://github.com/supershabam/sarama-cg): 0.10 MB<br/>  (0.06 MB git / 0.04 MB code)
 - [legionus/kafka-replicator](https://github.com/legionus/kafka-replicator): 0.10 MB<br/>  (0.06 MB git / 0.04 MB code)
 - [mediamath/sr](https://github.com/mediamath/sr): 0.09 MB<br/>  (0.06 MB git / 0.03 MB code)
@@ -411,3 +411,8 @@ The main purpose is reading / learning / teaching.
 - [ian-kent/ktail](https://github.com/ian-kent/ktail): 0.02 MB<br/>  (0.02 MB git / 0.00 MB code)
 - [ombits/kafkaproducer](https://github.com/ombits/kafkaproducer): 0.02 MB<br/>  (0.02 MB git / 0.00 MB code)
 <!-- /SIZE_LIST -->
+
+
+
+## Links
+  - http://golanguk.com/videos/2016/building-your-own-log-based-message-que-in-go/
