@@ -14,7 +14,6 @@ The main purpose is reading / learning / teaching.
 
     $ make crawl
 
-
 ### Navigation
 
 - [By Size](#by-size)
@@ -164,7 +163,7 @@ The main purpose is reading / learning / teaching.
 - [ansrivas/fwatcher](https://github.com/ansrivas/fwatcher): 2017-03-09 <br/> An application to watch a given directory for new files, read it and publish to Kafka ( using actors )
 - [msales/kage](https://github.com/msales/kage): 2017-03-09 <br/> Kafka metrics agent.
 - [mailgun/kafka-pixy](https://github.com/mailgun/kafka-pixy): 2017-03-08 <br/> gRPC/REST proxy for Kafka
-- [krallistic/kafka-operator](https://github.com/krallistic/kafka-operator): 2017-03-08 <br/> [WIP] A Kafka Operator for Kubernetes 
+- [krallistic/kafka-operator](https://github.com/krallistic/kafka-operator): 2017-03-08 <br/> [WIP] A Kafka Operator for Kubernetes
 - [jbanier/passeplat](https://github.com/jbanier/passeplat): 2017-03-08 <br/> small go thingy that shift data around, from syslog to kafka is the first step.
 - [redborder/dynamic-sensors-watcher](https://github.com/redborder/dynamic-sensors-watcher): 2017-03-08 <br/> Service for allowing new sensors IP by watching a serial number netflow option template
 - [l0vest0rm/connpool](https://github.com/l0vest0rm/connpool): 2017-03-08 <br/> connection pool for go/golang to connect with redis/kafka/hbase/mysql and anything else
@@ -179,7 +178,7 @@ The main purpose is reading / learning / teaching.
 - [upsight/franz](https://github.com/upsight/franz): 2017-02-28 <br/> Convenience wrappers around Shopify's Sarama
 - [foxcomm/metamorphosis](https://github.com/foxcomm/metamorphosis): 2017-02-27 <br/> The simple Kafka client in GoLang! Read and transform messages with ease.
 - [trustedanalytics-ng/gateway](https://github.com/trustedanalytics-ng/gateway): 2017-02-24 <br/> Simple websocket bridge with kafka back-end
-- [wangdrew/kafka-go](https://github.com/wangdrew/kafka-go): 2017-02-24 <br/> Messing around with sarama, the Kafka golang library 
+- [wangdrew/kafka-go](https://github.com/wangdrew/kafka-go): 2017-02-24 <br/> Messing around with sarama, the Kafka golang library
 - [mediamath/sr](https://github.com/mediamath/sr): 2017-02-23 <br/> Publish schemas to confluent schema-registry
 - [anthonyserious/go-kafka-test](https://github.com/anthonyserious/go-kafka-test): 2017-02-23 <br/> Test building mircoservices with go and kafka
 - [roblaszczak/clikafka](https://github.com/roblaszczak/clikafka): 2017-02-23 <br/> Simple CLI tool for Kafka written in GO (Golang)
@@ -219,7 +218,7 @@ The main purpose is reading / learning / teaching.
 - [rafaeljesus/event-srv](https://github.com/rafaeljesus/event-srv): 2016-12-19 <br/> An event aggregation service for microservices :hourglass:
 - [jamiealquiza/sangrenel](https://github.com/jamiealquiza/sangrenel): 2016-12-15 <br/> Apache Kafka load testing: "...basically a cloth bag filled with small jagged pieces of scrap iron"
 - [mhausenblas/dnpipes](https://github.com/mhausenblas/dnpipes): 2016-12-14 <br/> Distributed Named Pipes
-- [jianchen2580/log-stream](https://github.com/jianchen2580/log-stream): 2016-12-14 <br/> streaming kafka logs 
+- [jianchen2580/log-stream](https://github.com/jianchen2580/log-stream): 2016-12-14 <br/> streaming kafka logs
 - [supereagle/kafka-goclient-perf-test](https://github.com/supereagle/kafka-goclient-perf-test): 2016-12-09 <br/> Performance Test for Kafak clents of Go
 - [thbkrkr/zkafkapi](https://github.com/thbkrkr/zkafkapi): 2016-12-09 <br/> API to manage Kafka topics and consumers
 - [mudit2108/docker-kafka](https://github.com/mudit2108/docker-kafka): 2016-12-07 <br/> Apache Kafka cluster implemented with Docker
@@ -271,7 +270,7 @@ The main purpose is reading / learning / teaching.
 - [pmdcosta/apache-kafka](https://github.com/pmdcosta/apache-kafka): 2016-02-19 <br/> Docker containers for an Apache Kafka cluster
 - [nickbruun/gokafkagroupconsumer](https://github.com/nickbruun/gokafkagroupconsumer): 2016-01-26 <br/> Kafka 0.9+ group consumer for Go based on Shopify's sarama library
 - [legionus/kafka-replicator](https://github.com/legionus/kafka-replicator): 2015-11-19 <br/> Kafka messages replicator
-- [adxhyt/kafka-zookeeper-monitor](https://github.com/adxhyt/kafka-zookeeper-monitor): 2015-11-12 <br/> yet another kafka monitor by zookeeper 
+- [adxhyt/kafka-zookeeper-monitor](https://github.com/adxhyt/kafka-zookeeper-monitor): 2015-11-12 <br/> yet another kafka monitor by zookeeper
 - [ian-kent/ktail](https://github.com/ian-kent/ktail): 2015-10-23 <br/> Tail a Kafka topic (see https://github.com/ian-kent/ktee)
 - [kasey/camus](https://github.com/kasey/camus): 2015-10-08 <br/> what comes after kafka?
 - [ian-kent/ktee](https://github.com/ian-kent/ktee): 2015-09-25 <br/> Tee to a Kafka topic (see https://github.com/ian-kent/ktail)
