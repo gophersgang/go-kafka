@@ -5,6 +5,7 @@ https://github.com/ansrivas/fwatcher
 https://github.com/anthonyserious/go-kafka-test
 https://github.com/banno/terraform-provider-mesoskafka
 https://github.com/brxie/kafka-gtk
+https://github.com/bsm/sarama-cluster
 https://github.com/cafxx/kafkabalancer
 https://github.com/chenziliang/descartes.legacy
 https://github.com/confluentinc/confluent-kafka-go
