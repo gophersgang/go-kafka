@@ -34,6 +34,7 @@ https://github.com/gfremex/logrus-kafka-hook
 https://github.com/gleicon/kafka-shell
 https://github.com/go-kafka/connect
 https://github.com/go-wave/ykafka
+https://github.com/h12w/kafkaq
 https://github.com/h12w/kpax
 https://github.com/hellofresh/kandalf
 https://github.com/hieutrtr/imaginary-backup-consumer
@@ -78,6 +79,7 @@ https://github.com/movio/kasper
 https://github.com/msales/kage
 https://github.com/mudit2108/docker-kafka
 https://github.com/myself659/chanbroker
+https://github.com/nesze/kafka-bridge
 https://github.com/nickbruun/gokafkagroupconsumer
 https://github.com/ninibe/netlog
 https://github.com/ombits/kafkaproducer
